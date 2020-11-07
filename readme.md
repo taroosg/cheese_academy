@@ -1,5 +1,7 @@
 # チーズアカデミーの web サイト
 
+デプロイ先：https://taroosg.github.io/cheese_academy/
+
 ## プロダクトの紹介
 
 - チーズアカデミーの web サイト
